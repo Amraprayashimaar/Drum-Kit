@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: darkgoldenrod;
+    background-size: cover;
+
+}
+h1{
+    font-weight: bold;
+    font-size: 60px;
+    font-style: italic;
+    
+
+}
+button{
+    border-radius: 8px;
+    border: 6px solid black;
+    padding: 60px 60px;
+    margin: 50px 10px;
+    font-size: 60px;
+    font-weight: bold;
+    
+    color: rgb(44, 161, 8);
+}
+button:hover{
+    background-color: bisque;
+}
+.A{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fjJbz6Ie_aS9VFuJ8AJRxQHaG-&pid=Api&P=0&h=180");
+
+}
+.B{
+    background-image:url("https://tse4.mm.bing.net/th?id=OIP.zrjKuXuKx1qk_ZZkJvPwrQHaHa&pid=Api&P=0&h=180");
+    
+}
+.C{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.WXvKyazsuS9zrTozbOxw-wHaFP&pid=Api&P=0&h=180");
+}
+.D{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.w1_r6Op6WjIgZ_ZtWkFtiQHaHa&pid=Api&P=0&h=180");
+}
+.E{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.jljp9puiOSYvY59nIxOw4AHaEK&pid=Api&P=0&h=180");
+}
+.F{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.kVvJfbmILSrFXlXd0zXp6gHaHm&pid=Api&P=0&h=180");
+}
+.G{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.Mrt8egxb8PyZ15Y0fvPgEQHaEd&pid=Api&P=0&h=180");
+}
